@@ -73,7 +73,7 @@
         <?php endforeach?>
     </div>
     <div class="footer">
-        Design by nguyennk
+        Design by Khánh Nguyên
     </div>
       
 </body>
