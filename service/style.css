@@ -1,0 +1,58 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    max-width: 980px;
+    margin: 0 auto;
+}
+.header {
+    background-color: beige;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    
+}
+ul>li {
+    list-style: none;
+}
+ul>li a {
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+    display: block;
+}
+ul>li a:hover{
+    color: rgb(31, 167, 231);
+}
+.banner img {
+    width: 100%;
+}
+.service {
+    text-align: center;
+    text-transform: uppercase;
+    color: rgb(31, 167, 231);
+    margin: 20px 0;
+}
+table {
+    background-color: rgb(209, 203, 203);
+}
+th {
+    padding: 10px 0;
+}
+td {
+    text-align: center;
+    padding: 20px;
+}
+
+.footer {
+    background-color: beige;
+    text-align: center;
+    padding: 20px 0;
+}
+
+
+
+
+
